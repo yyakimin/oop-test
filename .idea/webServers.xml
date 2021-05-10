@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="026bd304-2861-457b-bec3-fd7f1cff1337" name="oop.appbits.org" url="https://oop.appbits.org">
+        <fileTransfer rootFolder="/oop.appbits.org" host="oop.appbits.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
