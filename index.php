@@ -9,5 +9,6 @@
 </head>
 <body>
 <h1>Git Test 1.0</h1>
+<p>Testing HTML</p>
 </body>
 </html>
